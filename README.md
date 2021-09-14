@@ -3,9 +3,9 @@
  # index.html 
 broken links that needed to be corrected. 
     Ex: the Horiseon was broken up and needed to be all one word.
-I did replace the <div> with different tags to express the sections better. 
+I did replace the div with different tags to express the sections better. 
 Had to add an id for search engine optimization for the link to work
-in the footer tag, i switched <h2> to <h4>
+in the footer tag, i switched h2 to h4
 
 # Style.css
 replaced div to the new tags. 
